@@ -19,7 +19,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented features:
 
-<img src='C:\Users\cheta\web102_prework\preworkgif.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='C:\Users\cheta\web102_prework\assets\preworkgif.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 > GIF created with ...  
 > LICEcape
